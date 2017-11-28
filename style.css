@@ -1,0 +1,41 @@
+body {
+	background-image: url('https://lh4.googleusercontent.com/LJLMe8_sreiKWrcBWiocTR_XIm0hC6x7CSSY_p9SIAI3o0WI-kSvkHMZ-gBR5maexYCExpScqU_QEY0HFD-6=w2562-h1346');
+	background-size: cover;
+}
+
+h1 {
+	color:white;
+	text-align:center;
+	margin-top:250px;
+	font-family: 'Ruda', sans-serif;
+	font-size:175px;
+	-webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: grey;
+}
+
+button {
+	margin:auto;
+	display:block;
+	width:300px;
+	height:65px;
+	background-color:transparent;
+	color:white;
+	font-size:40px;
+	border-style:solid;
+	text-align:center;
+	text-decoration:none;
+	outline:none;
+	border:none;
+	font-family:'Open Sans', sans-serif;
+}
+
+button:hover { 
+    background-color: white;
+    transition:1s;
+    outline:none;
+}
+
+a {
+	text-decoration:none;
+	color:black;
+}
