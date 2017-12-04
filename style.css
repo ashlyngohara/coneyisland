@@ -1,16 +1,16 @@
 body {
-	background-image: url('https://github.com/ashlyngohara/coneyisland/blob/gh-pages/Water%20Gif%201.gif?raw=true');
+	background-image: url('https://github.com/ashlyngohara/coneyisland/blob/master/watergif3.gif?raw=true');
 	background-size: cover;
 }
 
 h1 {
-	color:white;
+	color:#F3E2CB;
 	text-align:center;
-	margin-top:250px;
+	margin-top:300px;
 	font-family: 'Ruda', sans-serif;
 	font-size:175px;
 	-webkit-text-stroke-width: 2px;
-    -webkit-text-stroke-color: grey;
+    -webkit-text-stroke-color: black;
 }
 
 button {
@@ -30,7 +30,7 @@ button {
 }
 
 button:hover { 
-    background-color: white;
+    background-color: #E7B9A8;
     transition:1s;
     outline:none;
 }
