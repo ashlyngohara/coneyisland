@@ -1,0 +1,43 @@
+p {
+	font-size:20px;
+	font-family: 'Open Sans', sans-serif;
+	line-height:120%;
+}
+
+.nav{
+    border:1px solid #ccc;
+    border-width: 0;
+    list-style:none;
+    margin:0;
+    padding:0;
+    text-align:center;
+    margin-top:20px;
+}
+.nav li{
+    display:inline;
+}
+.nav a{
+    display:inline-block;
+    padding-left:50px;
+    padding-right:50px;
+}
+
+a {
+	text-decoration:none;
+	color:#F3B9A8;
+}
+
+body {
+	background-size: cover;
+}
+
+h1 {
+    font-family: 'Ruda', sans-serif;
+    font-size:50px;
+}
+
+img {
+	width:150%;
+	margin-top:50px;
+	border:2px solid black;
+}
