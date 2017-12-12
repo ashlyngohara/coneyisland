@@ -50,10 +50,46 @@ h1 {
 }
 
 iframe {
-
+    position:middle;
+    text-align:middle;
 }
 
 .juxta {
     text-align:center;
+}
 
+.bear {
+    text-align:center;
+    font-size:50px;
+}
+
+.bears {
+    text-align:center;
+    font-size:30px;
+    font-family:'Open Sans', sans-serif;
+}
+
+.off {
+    font-size:50px;
+    text-align:center;
+}
+
+p {
+    font-size:18px;
+    font-family: 'Open Sans', sans-serif;
+    line-height:120%;
+}
+
+hr {
+    width:50%;
+}
+
+.info {
+    font-size:30px;
+    font-family:'Open Sans', sans-serif;
+}
+
+img {
+    width:96%;
+    text-align:center;
 }
